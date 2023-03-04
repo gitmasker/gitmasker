@@ -17,13 +17,13 @@ This command will set Gitmasker as the author of your commit. Make sure to repla
 <!-- Light Mode -->
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats.vercel.app/api?username=gitmasker&theme=default#gh-light-mode-only" alt="GitMasker's Github stats" />
+<img height=200 src="https://github-readme-stats.vercel.app/api?username=gitmasker&include_all_commits=true&theme=default#gh-light-mode-only" alt="GitMasker's Github stats" />
 </a>
 </div>
 
 <!-- Dark Mode -->
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=200 src="https://github-readme-stats.vercel.app/api?username=gitmasker&theme=dark&bg_color=000000#gh-dark-mode-only" alt="GitMasker's Github stats" />
+<img height=200 src="https://github-readme-stats.vercel.app/api?username=gitmasker&include_all_commits=true&theme=dark&bg_color=000000#gh-dark-mode-only" alt="GitMasker's Github stats" />
 </a>
 </div>
