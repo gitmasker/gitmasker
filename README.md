@@ -7,7 +7,7 @@ Welcome to Gitmasker's profile, the privacy-conscious octocat that helps you con
 Using Gitmasker to conceal your identity when committing is easy. Simply use the following command:
 
 ```bash
-git commit --no-gpg-sign --author "Gitmasker <gitmasker@proton.me>" -m "Your commit message"
+git commit --no-gpg-sign --author "gitmasker <gitmasker@proton.me>" -m "Your commit message"
 ```
 
 This command will set Gitmasker as the author of your commit. Make sure to replace "Your commit message" with a brief description of your changes.
